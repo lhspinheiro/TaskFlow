@@ -1,0 +1,11 @@
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/bin/Debug/net8.0/TaskFlow.Communication.deps.json
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/bin/Debug/net8.0/TaskFlow.Communication.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/bin/Debug/net8.0/TaskFlow.Communication.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/TaskFlow.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/TaskFlow.Communication.AssemblyInfoInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/TaskFlow.Communication.AssemblyInfo.cs
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/TaskFlow.Communication.csproj.CoreCompileInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/TaskFlow.Communication.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/refint/TaskFlow.Communication.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/TaskFlow.Communication.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/ref/TaskFlow.Communication.dll

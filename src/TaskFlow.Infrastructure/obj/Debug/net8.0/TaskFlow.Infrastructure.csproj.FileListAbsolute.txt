@@ -1,0 +1,15 @@
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/bin/Debug/net8.0/TaskFlow.Infrastructure.deps.json
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/bin/Debug/net8.0/TaskFlow.Infrastructure.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/bin/Debug/net8.0/TaskFlow.Infrastructure.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/bin/Debug/net8.0/TaskFlow.Domain.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/bin/Debug/net8.0/TaskFlow.Domain.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.csproj.AssemblyReference.cache
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.AssemblyInfoInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.AssemblyInfo.cs
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.csproj.CoreCompileInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.csproj.CopyComplete
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/refint/TaskFlow.Infrastructure.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/ref/TaskFlow.Infrastructure.dll
