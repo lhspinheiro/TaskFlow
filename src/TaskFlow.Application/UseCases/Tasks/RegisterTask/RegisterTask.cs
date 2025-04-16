@@ -35,10 +35,6 @@ public class RegisterTask : IRegisterTask
     {
         var validator = new TaskValidator();
         var result = validator.Validate(request);
-
-        if (!result.IsValid)
-        {
-            
-        }
+        
     }
 }

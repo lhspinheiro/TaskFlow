@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ActionConstraints;
+using TaskFlow.Application.UseCases.Tasks.GetAllTasks;
 using TaskFlow.Application.UseCases.Tasks.RegisterTask;
 using TaskFlow.Communication.Requests;
 using TaskFlow.Communication.Response;
@@ -21,7 +22,21 @@ namespace TaskFlow.Api.Controllers
             
             return Created(string.Empty, response);
         }
-        
-        
+
+
+        [HttpGet]
+        [ProducesResponseType(typeof(ResponseTaskJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        public async Task<IActionResult> GellALl([FromServices] IGetAllTasks useCase)
+        {
+            var response = await useCase.GetALl();
+
+            if (response == null)
+            {
+                return NoContent();
+            }
+            
+            return Ok(response);
+        }
     }
 }

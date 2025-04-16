@@ -13,3 +13,4 @@
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/refint/TaskFlow.Infrastructure.dll
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.pdb
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/ref/TaskFlow.Infrastructure.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/obj/Debug/net8.0/TaskFlow.Infrastructure.sourcelink.json

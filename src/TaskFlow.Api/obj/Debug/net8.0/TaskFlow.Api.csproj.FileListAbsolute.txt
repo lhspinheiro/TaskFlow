@@ -245,3 +245,4 @@
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Api/bin/Debug/net8.0/TaskFlow.Application.pdb
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Api/bin/Debug/net8.0/TaskFlow.Communication.pdb
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Api/bin/Debug/net8.0/FluentValidation.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Api/obj/Debug/net8.0/TaskFlow.Api.sourcelink.json

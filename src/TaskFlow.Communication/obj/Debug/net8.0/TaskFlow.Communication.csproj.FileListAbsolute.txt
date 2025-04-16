@@ -9,3 +9,4 @@
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/refint/TaskFlow.Communication.dll
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/TaskFlow.Communication.pdb
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/ref/TaskFlow.Communication.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Communication/obj/Debug/net8.0/TaskFlow.Communication.sourcelink.json
