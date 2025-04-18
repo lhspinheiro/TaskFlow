@@ -5,5 +5,5 @@ namespace TaskFlow.Application.UseCases.Tasks.RegisterTask;
 
 public interface IRegisterTask 
 {
-    public Task  <ResponseTaskJson>  Register(RequestTask request);
+    public Task  <ResponseRegisterTaskJson>  Register(RequestTask request);
 }

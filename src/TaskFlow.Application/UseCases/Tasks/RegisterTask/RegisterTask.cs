@@ -19,7 +19,7 @@ public class RegisterTask : IRegisterTask
   
     }
     
-    public async Task <ResponseTaskJson> Register(RequestTask request)
+    public async Task <ResponseRegisterTaskJson> Register(RequestTask request)
     {
         Validate(request);
         
@@ -28,7 +28,7 @@ public class RegisterTask : IRegisterTask
         await _dbContext.task.AddAsync(entity);
         await _dbContext.SaveChangesAsync();
         
-        return _mapper.Map<ResponseTaskJson>(entity);
+        return _mapper.Map<ResponseRegisterTaskJson>(entity);
     }
 
     private void Validate(RequestTask request)

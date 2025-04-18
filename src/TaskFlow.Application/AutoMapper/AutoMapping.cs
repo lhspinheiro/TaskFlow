@@ -20,6 +20,6 @@ public class AutoMapping : Profile
 
     private void EntityToResponseMapping()
     {
-        CreateMap<Task, ResponseTaskJson>();
+        CreateMap<Task, ResponseRegisterTaskJson>();
     }
 }

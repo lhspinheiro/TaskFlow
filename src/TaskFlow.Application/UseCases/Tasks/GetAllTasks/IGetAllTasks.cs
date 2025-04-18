@@ -4,5 +4,5 @@ namespace TaskFlow.Application.UseCases.Tasks.GetAllTasks;
 
 public interface IGetAllTasks
 {
-    public Task<List<ResponseTaskJson>> GetALl(); 
+    public Task<ResponseTaskJson> GetALl(); 
 }

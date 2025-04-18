@@ -9,3 +9,4 @@
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Domain/obj/Debug/net8.0/refint/TaskFlow.Domain.dll
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Domain/obj/Debug/net8.0/TaskFlow.Domain.pdb
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Domain/obj/Debug/net8.0/ref/TaskFlow.Domain.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Domain/obj/Debug/net8.0/TaskFlow.Domain.sourcelink.json

@@ -17,12 +17,16 @@ public class GetAllTasks : IGetAllTasks
         _mapper = mapper;
     }
     
-    
-    public async Task<List<ResponseTaskJson>> GetALl()
+    public async Task<ResponseTaskJson> GetALl()
     {
         var response = await _dbContext.task.AsNoTracking().OrderByDescending(order => order.IsCompleted == "completa")
             .ToListAsync();
-        
-        return _mapper.Map<List<ResponseTaskJson>>(response);
+
+        return new ResponseTaskJson
+        {
+ 
+           Tasks = _mapper.Map<List<ResponseRegisterTaskJson>>(response)
+        };
+
     }
 }
