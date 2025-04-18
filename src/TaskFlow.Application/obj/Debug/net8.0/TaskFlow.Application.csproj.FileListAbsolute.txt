@@ -18,3 +18,5 @@
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Application/obj/Debug/net8.0/TaskFlow.Application.pdb
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Application/obj/Debug/net8.0/ref/TaskFlow.Application.dll
 /media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Application/obj/Debug/net8.0/TaskFlow.Application.sourcelink.json
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Application/bin/Debug/net8.0/TaskFlow.Exception.dll
+/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Application/bin/Debug/net8.0/TaskFlow.Exception.pdb

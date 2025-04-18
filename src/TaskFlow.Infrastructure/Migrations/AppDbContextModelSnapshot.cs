@@ -41,9 +41,8 @@ namespace TaskFlow.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<string>("Priority")
-                        .IsRequired()
-                        .HasColumnType("longtext");
+                    b.Property<int>("Priority")
+                        .HasColumnType("int");
 
                     b.Property<string>("Title")
                         .IsRequired()

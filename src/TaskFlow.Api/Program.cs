@@ -1,3 +1,4 @@
+using TaskFlow.Api.Filters;
 using TaskFlow.Application;
 using TaskFlow.Infrastructure;
 
@@ -10,6 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddInfrastructure(builder.Configuration);
+builder.Services.AddMvc(options => options.Filters.Add(typeof(ExceptionFilter)));
 builder.Services.AddApplication(); 
 var app = builder.Build();
 

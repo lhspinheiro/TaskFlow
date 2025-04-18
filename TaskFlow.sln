@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.Domain", "src\Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.Infrastructure", "src\TaskFlow.Infrastructure\TaskFlow.Infrastructure.csproj", "{485C92F4-A7AA-433B-AE5D-39118786BF4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.Exception", "src\TaskFlow.Exception\TaskFlow.Exception.csproj", "{0A81829F-C6F1-4114-BAE1-4C6E311DA317}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,7 @@ Global
 		{6C5D5D5F-76FF-428E-BF2F-DE3C721F00B8} = {C0B35D50-5532-46E2-BD0D-1AEFFC109803}
 		{040E3179-4824-4B8D-B76E-E08763A19E99} = {C0B35D50-5532-46E2-BD0D-1AEFFC109803}
 		{485C92F4-A7AA-433B-AE5D-39118786BF4F} = {C0B35D50-5532-46E2-BD0D-1AEFFC109803}
+		{0A81829F-C6F1-4114-BAE1-4C6E311DA317} = {C0B35D50-5532-46E2-BD0D-1AEFFC109803}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C06574E8-19C7-45D2-9EEE-ABFF1520246D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -45,5 +48,9 @@ Global
 		{485C92F4-A7AA-433B-AE5D-39118786BF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{485C92F4-A7AA-433B-AE5D-39118786BF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{485C92F4-A7AA-433B-AE5D-39118786BF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A81829F-C6F1-4114-BAE1-4C6E311DA317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A81829F-C6F1-4114-BAE1-4C6E311DA317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A81829F-C6F1-4114-BAE1-4C6E311DA317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A81829F-C6F1-4114-BAE1-4C6E311DA317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

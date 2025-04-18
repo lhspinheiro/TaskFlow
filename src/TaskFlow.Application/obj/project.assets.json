@@ -317,6 +317,16 @@
           "bin/placeholder/TaskFlow.Domain.dll": {}
         }
       },
+      "TaskFlow.Exception/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TaskFlow.Exception.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskFlow.Exception.dll": {}
+        }
+      },
       "TaskFlow.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -816,6 +826,11 @@
       "path": "../TaskFlow.Domain/TaskFlow.Domain.csproj",
       "msbuildProject": "../TaskFlow.Domain/TaskFlow.Domain.csproj"
     },
+    "TaskFlow.Exception/1.0.0": {
+      "type": "project",
+      "path": "../TaskFlow.Exception/TaskFlow.Exception.csproj",
+      "msbuildProject": "../TaskFlow.Exception/TaskFlow.Exception.csproj"
+    },
     "TaskFlow.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../TaskFlow.Infrastructure/TaskFlow.Infrastructure.csproj",
@@ -829,6 +844,7 @@
       "Microsoft.Extensions.DependencyInjection >= 8.0.1",
       "TaskFlow.Communication >= 1.0.0",
       "TaskFlow.Domain >= 1.0.0",
+      "TaskFlow.Exception >= 1.0.0",
       "TaskFlow.Infrastructure >= 1.0.0"
     ]
   },
@@ -862,6 +878,9 @@
             },
             "/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Domain/TaskFlow.Domain.csproj": {
               "projectPath": "/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Domain/TaskFlow.Domain.csproj"
+            },
+            "/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Exception/TaskFlow.Exception.csproj": {
+              "projectPath": "/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Exception/TaskFlow.Exception.csproj"
             },
             "/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/TaskFlow.Infrastructure.csproj": {
               "projectPath": "/media/lhspinheiro/HD/Projetos/C# projects/TaskFlow/src/TaskFlow.Infrastructure/TaskFlow.Infrastructure.csproj"
