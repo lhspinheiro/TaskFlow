@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ActionConstraints;
 using TaskFlow.Application.UseCases.Tasks.DeleteTask;
 using TaskFlow.Application.UseCases.Tasks.GetAllTasks;
+using TaskFlow.Application.UseCases.Tasks.GetTaskById;
 using TaskFlow.Application.UseCases.Tasks.RegisterTask;
 using TaskFlow.Application.UseCases.Tasks.UpdateTask;
 using TaskFlow.Communication.Requests;
@@ -60,6 +61,17 @@ namespace TaskFlow.Api.Controllers
             
             return NoContent();
            
+        }
+
+        [HttpGet]
+        [Route("{id}")]
+        [ProducesResponseType(typeof(ResponseTaskJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ResponseErrorMessagesJson), statusCode: StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> getElementById([FromServices] IGetTaskById useCase, [FromRoute] int id)
+        {
+            var response = await useCase.GetById(id);
+            
+            return Ok(response);
         }
         
     }

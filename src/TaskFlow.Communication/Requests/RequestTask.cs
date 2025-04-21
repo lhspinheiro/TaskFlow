@@ -8,6 +8,5 @@ public class RequestTask
     public string Description { get; set; } = string.Empty;
     public DateTime DueDate { get; set; } 
     public string IsCompleted { get; set; } = string.Empty;
-    
     public Priority Priority { get; set; } 
 }

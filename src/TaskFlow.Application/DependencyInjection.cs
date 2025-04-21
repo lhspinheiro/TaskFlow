@@ -2,6 +2,7 @@ using Microsoft.Extensions.DependencyInjection;
 using TaskFlow.Application.AutoMapper;
 using TaskFlow.Application.UseCases.Tasks.DeleteTask;
 using TaskFlow.Application.UseCases.Tasks.GetAllTasks;
+using TaskFlow.Application.UseCases.Tasks.GetTaskById;
 using TaskFlow.Application.UseCases.Tasks.RegisterTask;
 using TaskFlow.Application.UseCases.Tasks.UpdateTask;
 
@@ -26,5 +27,6 @@ public static class DependencyInjection
         services.AddScoped<IGetAllTasks, GetAllTasks>();
         services.AddScoped<IUpdateTask, UpdateTask>();
         services.AddScoped<IDeleteTask, DeleteTask>();
+        services.AddScoped<IGetTaskById, GetTaskById>();
     }
 }

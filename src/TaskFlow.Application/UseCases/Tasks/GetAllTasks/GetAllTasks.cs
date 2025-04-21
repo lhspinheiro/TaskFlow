@@ -24,7 +24,6 @@ public class GetAllTasks : IGetAllTasks
 
         return new ResponseTaskJson
         {
- 
            Tasks = _mapper.Map<List<ResponseRegisterTaskJson>>(response)
         };
 
